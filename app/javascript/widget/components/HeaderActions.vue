@@ -37,8 +37,9 @@
       <fluent-icon
         icon="dismiss"
         size="24"
-        :class="$dm('text-black-900', 'dark:text-slate-50')"
+        :class="$dm('text-gray-50', 'dark:text-slate-50')"
       />
+      <!-- dm first text-black-900 -->
     </button>
   </div>
 </template>

@@ -11,6 +11,7 @@ const {
   redDark,
   violet,
   violetDark,
+  gray,
 } = require('@radix-ui/colors');
 const defaultTheme = require('tailwindcss/defaultTheme');
 module.exports = {
@@ -104,6 +105,9 @@ module.exports = {
         700: slateDark.slate8,
         800: slateDark.slate7,
         900: slateDark.slate2,
+      },
+      gray: {
+        50: gray.gray1
       },
       red: {
         50: redDark.red12,
