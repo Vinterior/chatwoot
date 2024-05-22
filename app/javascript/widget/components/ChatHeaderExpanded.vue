@@ -57,7 +57,8 @@
         padding-left: 1.6rem;
         padding-right: 1.25rem;"
       >
-        <li>Bespoke sourcing support tailored to your needs Assistance with negotiating deals with sellers </li>
+        <li>Bespoke sourcing support tailored to your needs</li>
+        <li>Assistance with negotiating deals with sellers</li>
         <li>Guidance and support with your purchase & delivery arrangements</li>
       </ul>
     </p>
