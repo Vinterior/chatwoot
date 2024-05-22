@@ -34,11 +34,17 @@
       }"
       @click="closeWindow"
     >
-      <fluent-icon
+      <!-- <fluent-icon
         icon="dismiss"
         size="24"
         :class="$dm('text-gray-50', 'dark:text-slate-50')"
-      />
+      /> -->
+      <div style="background-color: rgba(103, 103, 103, 0.6);
+          border-radius: 50px; padding: 5px;">
+        <svg data-v-a1550c48="" width="24" height="24" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="text-gray-50" style="">
+          <path d="m4.397 4.554.073-.084a.75.75 0 0 1 .976-.073l.084.073L12 10.939l6.47-6.47a.75.75 0 1 1 1.06 1.061L13.061 12l6.47 6.47a.75.75 0 0 1 .072.976l-.073.084a.75.75 0 0 1-.976.073l-.084-.073L12 13.061l-6.47 6.47a.75.75 0 0 1-1.06-1.061L10.939 12l-6.47-6.47a.75.75 0 0 1-.072-.976l.073-.084-.073.084Z" fill="currentColor"></path>
+        </svg>
+      </div>
       <!-- dm first text-black-900 -->
     </button>
   </div>
