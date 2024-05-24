@@ -42,7 +42,7 @@ export const SDK_CSS = `
   background: #1f93ff;
   border-radius: 100px;
   border-width: 0px;
-  bottom: 20px;
+  bottom: 15px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, .16) !important;
   cursor: pointer;
   height: 64px;
@@ -280,9 +280,9 @@ export const SDK_CSS = `
 @media only screen and (min-width: 667px) {
   .woot-widget-holder {
     border-radius: 16px;
-    bottom: 104px;
-    height: calc(90% - 64px - 20px);
-    max-height: 750px !important;
+    bottom: 90px;
+    height: calc(96% - 64px - 15px);
+    max-height: 760px !important;
     min-height: 250px !important;
     width: 400px !important;
  }

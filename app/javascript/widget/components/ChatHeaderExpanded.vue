@@ -51,15 +51,15 @@
       font-size: 14px;
       line-height: 29px;"
     >
-      Hello! Welcome to our exclusive shopping concierge service; a dedicated support team, available Monday through Friday from 9am to 6pm. Enjoy our best-in-class personalised shopping experience, including:
+      Welcome to our exclusive shopping concierge service; real person support team available Monday to Friday 9am-6pm. Enjoy our best-in-class personalised shopping experience:
       <ul style="
         list-style: disc;
         padding-left: 1.6rem;
         padding-right: 1.25rem;"
       >
-        <li>Bespoke sourcing support tailored to your needs</li>
-        <li>Assistance with negotiating deals with sellers</li>
-        <li>Guidance and support with your purchase & delivery arrangements</li>
+        <li>Bespoke sourcing support</li>
+        <li>Assistance with negotiating deals</li>
+        <li>Guidance and support with your purchase & delivery</li>
       </ul>
     </p>
   </header>
