@@ -1,8 +1,10 @@
 <template>
+  <!-- background: widgetColor -->
   <div
     v-dompurify-html="formatMessage(message, false)"
     class="chat-bubble user"
-    :style="{ background: widgetColor, color: textColor }"
+    style="background: #194944;"
+    :style="{ color: textColor }"
   />
 </template>
 
