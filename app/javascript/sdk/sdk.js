@@ -99,7 +99,7 @@ export const SDK_CSS = `
 
 .woot-widget-bubble.woot-widget--expanded div {
   align-items: center;
-  color: #fff;
+  color: #194944;
   display: flex;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Arial, sans-serif;
   font-size: 16px;
