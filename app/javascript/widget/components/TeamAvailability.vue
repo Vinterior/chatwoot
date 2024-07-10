@@ -2,12 +2,10 @@
   <div class="p-4 shadow-sm rounded-md bg-white dark:bg-slate-700">
     <div class="flex items-center justify-between">
       <div class="  ">
-        <!-- Update here to friendly UK name -->
         <div class="text-sm font-medium text-slate-700 dark:text-slate-50">
-          <!-- $t('TEAM_AVAILABILITY.ONLINE') -->
           {{
             isOnline
-              ? "Emma is online"
+              ? $t('TEAM_AVAILABILITY.ONLINE')
               : $t('TEAM_AVAILABILITY.OFFLINE')
           }}
         </div>
