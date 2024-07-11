@@ -40,10 +40,11 @@
           font-size: 28px;
           margin-top: 20px;
           padding-right: 70px;"
-        >Your personal shopping assistant</p>
+        >Trade support</p>
       </div>
     </div>
 
+    <!-- TODO: Maybe just go back to normal style and update from Chatwoot website -->
     <p class="text-base leading-normal text-slate-700" style="
       padding-left: 1.25rem;
       padding-right: 1.25rem;
@@ -51,8 +52,8 @@
       font-size: 14px;
       line-height: 29px;"
     >
-      Welcome to our exclusive shopping concierge service; real person support team available Monday to Friday 9am-6pm. Enjoy our best-in-class personalised shopping experience:
-      <ul style="
+      Vinterior’s in-house specialists in our trade team offer end to end support. They can assist with procurement needs no matter how big or small - from curating simple item collections for the perfect piece, to helping procure for a full project beginning to end. Contact us directly below, Monday to Friday 9am - 6pm.
+      <!-- <ul style="
         list-style: disc;
         padding-left: 1.6rem;
         padding-right: 1.25rem;"
@@ -60,7 +61,7 @@
         <li>Bespoke sourcing support</li>
         <li>Assistance with negotiating deals</li>
         <li>Guidance and support with your purchase & delivery</li>
-      </ul>
+      </ul> -->
     </p>
   </header>
 </template>
